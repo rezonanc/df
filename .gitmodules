@@ -1,3 +1,6 @@
 [submodule ".dotfiles/shell"]
 	path = .dotfiles/shell
 	url = https://github.com/rezonanc/df-shell.git
+[submodule ".dotfiles/powerline"]
+	path = .dotfiles/powerline
+	url = https://github.com/rezonanc/df-powerline.git

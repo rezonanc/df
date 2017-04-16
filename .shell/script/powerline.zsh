@@ -1,0 +1,1 @@
+../../.dotfiles/powerline/.shell/script/powerline.zsh
