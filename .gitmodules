@@ -4,3 +4,6 @@
 [submodule ".dotfiles/powerline"]
 	path = .dotfiles/powerline
 	url = https://github.com/rezonanc/df-powerline.git
+[submodule ".dotfiles/powerline-config"]
+	path = .dotfiles/powerline-config
+    url = https://github.com/rezonanc/df-powerline-config.git
