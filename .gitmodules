@@ -1,0 +1,3 @@
+[submodule ".dotfiles/shell"]
+	path = .dotfiles/shell
+	url = https://github.com/rezonanc/df-shell.git
