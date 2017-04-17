@@ -10,3 +10,6 @@
 [submodule ".dotfiles/git"]
 	path = .dotfiles/git
 	url = https://github.com/rezonanc/df-git.git
+[submodule ".dotfiles/git-user"]
+	path = .dotfiles/git-user
+	url = https://github.com/rezonanc/df-git-user.git
